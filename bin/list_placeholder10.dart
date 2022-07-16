@@ -17,7 +17,7 @@ List func(int n) {
 
     i++;
   }
-  print(y[2].runtimeType);
+
   return y;
 }
 
