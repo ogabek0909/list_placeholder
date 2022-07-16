@@ -9,8 +9,8 @@ List func(int n) {
   List a = [];
   int q = 0;
   while (q < n) {
-    q++;
     a.add(q);
+    q++;
   }
   return a;
 }
