@@ -6,7 +6,7 @@ Return the List
 
 */
 List func(int n) {
-  List a = List.filled(n, 0);
+  List a = List.filled(n, 1);
   return a;
 }
 
